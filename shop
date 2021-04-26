@@ -1,0 +1,449 @@
+      <div id="slides" class="carousel slide" data-ride="carousel">
+            <ul class="carousel-indicators" style="margin-bottom: 300px;">
+                <li data-target="#slides" data-slide-to="0" ></li>
+                <li data-target="#slides" data-slide-to="1" class="active"></li>
+                <li data-target="#slides" data-slide-to="2"></li>
+            </ul>
+            <div class="carousel-inner">
+        <div class="carousel-item ">
+            <img src="/slide1.jpg" >
+            <div class="carousel-caption">
+                       
+                
+        
+                <h1 style="font-size: 50px; color: gold;">Night of soul</h1>
+                <p style="margin-bottom: 30px;">Firstly, we`re an environmentally friendly renewable energy compant offering a broad portfolio of <br>2technologys, products & solutions to our clients globally</p>
+                <a href="#div3"><button  type="button" class="btn btn-outline-light btn-success" style="color: white; background-color: green; margin-bottom: 300px;"> Find out more</button></a> 
+                
+           
+                
+                
+            </div>
+        </div>
+        
+        <div class="carousel-item active ">
+            <img src="/slide1.jpg" >
+            <div class="carousel-caption">
+                <h1 style="font-size: 50px; color: gold;">Night of soul</h1>
+                <p style="margin-bottom: 30px;">Firstly, we`re an environmentally friendly renewable energy compant offering a broad portfolio of <br>2technologys, products & solutions to our clients globally</p>
+                <a href="#div3"><button  type="button" class="btn btn-outline-light btn-success" style="color: white; background-color: green; margin-bottom: 300px;"> Find out more</button></a> 
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="/slide2.jpg" >
+            <div class="carousel-caption">
+                <h1 style="font-size: 50px; color: gold;">Night of soul</h1>
+                <p style="margin-bottom: 30px;">Firstly, we`re an environmentally friendly renewable energy compant offering a broad portfolio of <br>2technologys, products & solutions to our clients globally</p>
+                <a href="#div3"><button  type="button" class="btn btn-outline-light btn-success" style="color: white; background-color: green; margin-bottom: 300px;"> Find out more</button></a> 
+            </div>
+        </div>
+        
+            </div>
+        </div>
+    
+        <div id="events" class="specials-section w-100">
+            <div class="container">
+                <div class="row row-specials">
+                    <div class="col-md-12 mt-4">
+                        <div class="store-title text-center">
+                            <h2 class="shadow p-4 mb-4 bg-white">Upcomming<b class="ml-1"></b> Events! </h2>
+                        </div>
+    
+                        <div id="myCarousel-1" class="carousel carousel-specials-1 slide" data-ride="carousel"
+                            data-interval="0">
+                            <!-- carousel indicators -->
+                            <ol class="carousel-indicators">
+                                <li data-target="myCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="myCarousel" data-slide-to="1"></li>
+                                <li data-target="myCarousel" data-slide-to="2"></li>
+                            </ol>
+                            <!-- wrapper for carousel items -->
+                            <div class="carousel-inner">
+                                <div class="item-1 carousel-item active">
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event1.jpg">
+                                                </div>
+                                              <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event2.jpg" alt="">
+                                                </div>
+                                                  <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event3.jpg" alt="">
+                                                </div>
+                                                  <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event4.jpg" alt="">
+                                                </div>
+                                                  <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+    
+                                <div class="item-1 carousel-item">
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event5.jpg">
+                                                </div>
+                                               <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event5.jpg" alt="">
+                                                </div>
+                                                <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event3.jpg" alt="">
+                                                </div>
+                                                <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event1.jpg" alt="">
+                                                </div>
+                                                 <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+    
+                                <div class="item-1 carousel-item">
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event2.jpg" alt="">
+                                                </div>
+                                                 <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event3.jpg" alt="">
+                                                </div>
+                                                <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event4.jpg" alt="">
+                                                </div>
+                                               <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+    
+                                        <div class="col-sm-3">
+                                            <div class="thumb-wrapper-1">
+                                                <div class="img-box">
+                                                    <img class="img-fluid" src="/event5.jpg" alt="">
+                                                </div>
+                                               <!--
+                                                  <div class="thumb-content-1">
+                                                    <h4 class="h4-responsive">Beverage 1</h4>
+                                                    <p class="item-price-1"><strike>$400.00</strike> <span>$369.00</span>
+                                                    </p>
+                                                    <div class="star-rating">
+                                                        <ul class="list-inline">
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star"
+                                                                    aria-hidden="true"></i></li>
+                                                            <li class="list-inline-item"><i class="fa fa-star-o"
+                                                                    aria-hidden="true"></i></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                              -->  
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- cards end -->
+    
+                                <!-- controls -->
+                                <a href="#myCarousel-1" class="carousel-control-prev carousel-control" data-slide="prev">
+                                    <span class="fa fa-chevron-left"></span>
+                                </a>
+                                <a href="#myCarousel-1" class="carousel-control-next carousel-control" data-slide="next">
+                                    <span class="fa fa-chevron-right"></span>
+                                </a>
+    
+    
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container w-100" style="width: 100%;">
+            <div class="row w-100"style="width: 100%;">
+                <div class="jumbotron " style="width: 100%;" >
+                    hasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss <br>sssssssssssssssssss
+                    ssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddd
+                </div>
+            </div>
+
+        </div>
